@@ -41,7 +41,7 @@ Q2 ’25: $0.342 (+793% YoY)
 
 FY ’25: $1.230 (+269% YoY)
 
-*Note: Based on 447.3 shares outstanding.*  
+*Note: Based on 447.3 million shares outstanding.*  
 <br>
 
 **Detailed Earnings Forecast**
