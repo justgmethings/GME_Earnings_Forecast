@@ -6,6 +6,8 @@
 
 ---
 
+*Author's note: Please see the [commit history](https://github.com/justgmethings/GME_Earnings_Forecast/commits/main/) for the [original post](https://github.com/justgmethings/GME_Earnings_Forecast/commit/8ea7b42b6bfd4ac4a8db73ae252507db163f3ad1), which was placed in the README of the repository. Going forward, I will be placing each forecast in its own .md page in the forecasts subfolder.*
+
 ## TL;DR
 
 I build a forecast model of GameStop’s earnings for the remainder of FY ’25. I attempt to build my model around estimates of the future sales, costs, and interest earnings of the company as it exists in Q2 ’25. This means I do not include potential future earnings based on, for example, new revenue initiatives, additional cash earned from future stock sales or convertible bonds, profits/losses on Bitcoin outside of Q2, or future changes in the macroeconomy. I estimate net sales of $886 million and $3.868 billion in Q2 ’25 and FY ’25, respectively and earnings per share of $0.342 and $1.230 in Q2 ’25 and FY ’25, respectively.
