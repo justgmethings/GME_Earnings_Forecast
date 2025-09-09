@@ -6,7 +6,7 @@
 
 ---
 
-*Author's note: Please see the [commit history](https://github.com/justgmethings/GME_Earnings_Forecast/commits/main/) for the [original post](https://github.com/justgmethings/GME_Earnings_Forecast/commit/8ea7b42b6bfd4ac4a8db73ae252507db163f3ad1), which was placed in the README of the repository. Going forward, I will be placing each forecast in its own .md page in the forecasts subfolder.*
+*Author's note: Please see the [commit history](https://github.com/justgmethings/GME_Earnings_Forecast/commits/main/) for the [original post](https://github.com/justgmethings/GME_Earnings_Forecast/commit/8ea7b42b6bfd4ac4a8db73ae252507db163f3ad1), which was placed in the README of the repository. Going forward, I will be placing each [forecast](https://github.com/justgmethings/GME_Earnings_Forecast/tree/main/forecasts) in its own .md page in the forecasts subfolder.*
 
 ## TL;DR
 
