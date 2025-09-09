@@ -8,7 +8,7 @@
 
 Archived Earnings Forecasts:
 
-- [Q2 ’25 and FY ’25](https://github.com/justgmethings/GME_Earnings_Forecast/blob/main/archive/earnings_forecast_q2-2025.md)
+- [Q2 ’25 and FY ’25](https://github.com/justgmethings/GME_Earnings_Forecast/blob/main/forecasts/earnings_forecast_q2-2025.md)
 
 ## UPDATE: Q2 ‘25 Estimates Versus Results
 *All estimates reported in millions of US dollars.*
