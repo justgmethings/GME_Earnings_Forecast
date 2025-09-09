@@ -10,6 +10,36 @@ Archived Earnings Forecasts:
 
 - [Q2 ’25 and FY ’25](https://github.com/justgmethings/GME_Earnings_Forecast/blob/main/archive/earnings_forecast_q2-2025.md)
 
+## UPDATE: Q2 ‘25 Estimates Versus Results
+*All estimates reported in millions of US dollars.*
+| |Q2 ‘25 Estimated|Q2 ‘25 Reported|Pct. Error|
+|:-|:-|:-|:-|
+|Net Sales|886.44|972.2|+8.8%|
+|Cost of Sales|630.41|689.1|+8.5%|
+|SG&A|198.76|218.8|+9.2%|
+|Asset Impairments|0.00|2.1|+100%|
+|Operating Income|57.27|66.4|+13.8%|
+|Operating Income (Excl. Asset Impairments)|57.27|64.3|+10.9%|
+|Interest Income|(80.44)|(79.6)|-1.1%|
+|Other Income|(28.90)|(28.6)|-1.0%|
+|Income Tax Expense|13.77|6.0|-130.5%|
+|Net Income|152.84|168.6|+9.3%|
+
+*Notes: ‘Other Income’ incorporates forecasted BTC earnings for Q2 ’25. Relative to the original table, I switched the location of "Operating Income" and "Asset Impairments" to better reflect that asset impairments are included in operating income. I've also changed the formatting to wrap interest income and other income to indicate negative values as it is reflected in the GME earnings statement.*
+
+<br>
+
+**Percentage of Net Sales:**
+
+*Comparison of estimated values as a percentage of estimated net sales versus reported values as a percentage of reported net sales.*
+| |Q2 ‘25 Estimated|Q2 ‘25 Reported|Pct. Error|
+|:-|:-|:-|:-|
+|Net Sales|100%|100%|n/a|
+|Cost of Sales|71.1%|70.9%|-.3%|
+|SG&A|22.4%|22.5%|-.4%|
+|Net Income|17.2%|17.3%|-.6%|
+
+
 ## TL;DR
 
 I build a forecast model of GameStop’s earnings for the remainder of FY ’25. I attempt to build my model around estimates of the future sales, costs, and interest earnings of the company as it exists in Q2 ’25. This means I do not include potential future earnings based on, for example, new revenue initiatives, additional cash earned from future stock sales or convertible bonds, profits/losses on Bitcoin outside of Q2, or future changes in the macroeconomy. I estimate net sales of $886 million and $3.868 billion in Q2 ’25 and FY ’25, respectively and earnings per share of $0.342 and $1.230 in Q2 ’25 and FY ’25, respectively.
