@@ -28,13 +28,13 @@ My forecast is based on a series of assumptions (as described in the Appendix be
 **_NOTE: While the numbers below constitute my forecast for the quarter, I am providing the following results showing topline and bottomline forecasts if PowerPacks earnings are omitted. Net Sales: $934.36 million. Net Income: $100.82 million. EPS: 0.225 million._**
 
 ## Forecast
-<br>
 
 **Net Sales Forecast**
 
 Q3 2025: $1.309 billion (+52.2% YoY)
 
 FY 2025: $5.222 billion (+36.6% YoY)
+
 <br>
 
 **Basic EPS Forecast**
@@ -44,6 +44,7 @@ Q3 2025: $0.263 (+657.5% YoY)
 FY 2025: $1.491 (+352% YoY)
 
 *Note: Based on 447.4 million shares outstanding.*  
+
 <br>
 
 **Normalized EPS Forecast**
