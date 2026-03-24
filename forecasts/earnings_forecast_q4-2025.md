@@ -37,9 +37,9 @@ FY 2025: $3,778.86 billion (-1.2% YoY)
 
 **Basic (GAAP) EPS Forecast**
 
-Q4 2025: $0.489 (+68.62% YoY)
+Q4 2025: $0.560
 
-FY 2025: $1.138 (+244.85% YoY)
+FY 2025: $1.210
 
 *Note: Based on 447.4 million shares outstanding.*  
 
@@ -47,9 +47,9 @@ FY 2025: $1.138 (+244.85% YoY)
 
 **Basic (Non-GAAP) EPS Forecast**
 
-Q4 2025: $0.820 (+164.52% YoY)
+Q4 2025: $0.891
 
-FY 2025: $1.524 (+361.82% YoY)
+FY 2025: $1.596
 
 *Note: Based on 447.4 million shares outstanding.*  
 
@@ -65,11 +65,11 @@ FY 2025: $1.524 (+361.82% YoY)
 |SG&A|217.69|885.99|
 |Asset Impairments|0.00|44.10|
 |Operating Income|179.54|276.44|
-|Interest Income|49.00|234.50|
+|Interest Income|82.58|268.08|
 |Other Income|0|5.20|
 |Unrealized gain on digital assets|-148.10|-167.50|
 |Income Tax Expense|9.94|26.44|
-|Net Income|218.59|509.09|
-|Net Income (Adjusted)|366.69|681.89|
+|Net Income|250.71|541.21|
+|Net Income (Adjusted)|398.81|714.01|
 
 *Notes: As of Q3 2025, I have moved the unrealized gain (loss) on BTC from ‘Other Income’ to "Unrealized gain on digital assets".*
